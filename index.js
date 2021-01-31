@@ -35,7 +35,7 @@ const quarterOf = (month) => {
 
     else {
 
-        return "enter a different number";
+        return "enter a number from 1 - 12";
     }
 
 }
